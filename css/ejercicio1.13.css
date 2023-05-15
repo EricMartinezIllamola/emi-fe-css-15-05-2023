@@ -1,0 +1,26 @@
+th, table {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+#c-1 {
+    background-color:lightgreen;
+}
+
+#c-2 {
+    background-color: lightskyblue;
+    text-align:start;
+}
+
+#c-6 {
+    background-color:rgb(225, 136, 213);
+    text-align: end;
+    padding-top: 25px;
+}
+
+.th-rojo {
+    color: red;
+}

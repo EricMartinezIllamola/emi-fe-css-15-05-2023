@@ -1,0 +1,21 @@
+th {
+    background-color: rgb(2, 57, 2);
+    color: darkseagreen;
+    /* border: 3px solid lightskyblue; */
+}
+
+.c-impar {
+    background-color: darkseagreen;
+}
+
+.c-par {
+    background-color: rgb(58, 164, 58);
+}
+
+div {
+    float: left;
+}
+
+#div1 {
+    background-color: lightskyblue;
+}

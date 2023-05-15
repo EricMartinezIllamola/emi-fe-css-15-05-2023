@@ -1,0 +1,11 @@
+.div1, #div2 {
+    float: left;
+}
+
+div {
+    background-color: skyblue;
+}
+
+.d-absolute {
+    position: absolute;
+}

@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+table, td {
+    background-color: rgb(240, 240, 143);
+}
+
+th {
+    background-color: white;
+}
+
+#div1 {
+    background-image: url(../img/pinguino.avif);
+    background-size:cover;
+    width: 60vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+#div2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 3px solid gray;
+    width: 80%;
+}
